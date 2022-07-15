@@ -1,0 +1,6 @@
+//FuelType,Name,Quantity,Heat,Cost
+Coal,,MMBtu,1.000,2.114
+NG,,MMBtu,1.000,3.887
+Nuclear,,MMBtu,1.000,0.810
+Oil,,MMBtu,1.000,10.349
+//EOF
