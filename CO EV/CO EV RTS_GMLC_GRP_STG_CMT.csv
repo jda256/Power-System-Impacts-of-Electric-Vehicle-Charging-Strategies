@@ -1,0 +1,10 @@
+//Group,Cycle,LastPeriod
+U20 Oil CT,DA,0
+U76 Coal,DA,0
+U355 Gas CC,4HA,0
+U55 Gas CT,HA,0
+U12 Oil ST,DA,0
+U155 Coal,WA,0
+U400 Nuclear,WA,0
+U350 Coal,WA,0
+//EOF

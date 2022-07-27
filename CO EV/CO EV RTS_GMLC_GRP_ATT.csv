@@ -1,0 +1,10 @@
+//Group,GroupType,ScaleData,MaxMw,UseAggregate
+U20 Oil CT,Unit Group,0,20.000,0
+U76 Coal,Unit Group,0,76.000,0
+U355 Gas CC,Unit Group,0,355.000,0
+U55 Gas CT,Unit Group,0,55.000,0
+U12 Oil ST,Unit Group,0,12.000,0
+U155 Coal,Unit Group,0,155.000,0
+U400 Nuclear,Unit Group,0,400.000,0
+U350 Coal,Unit Group,0,350.000,0
+//EOF

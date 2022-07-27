@@ -1,8 +1,0 @@
-//ReserveType,Name,Up,Down,Online,ActivationTime,Endurance,Penalty
-Reg_Up,,1,0,1,5.000,0.000,0.000
-Reg_Down,,0,1,1,5.000,0.000,0.000
-Spin_Up,,1,0,1,10.000,0.000,0.000
-Flex_Up,,1,0,1,20.000,0.000,0.000
-Flex_Down,,0,1,1,20.000,0.000,0.000
-Flex_RT,,1,0,1,10.000,0.000,0.000
-//EOF

@@ -1,0 +1,6 @@
+//Cycle,Group,HoldCycle,HoldEnergy,HoldDelta
+DA,EV,WA,1,1
+4HA,EV,DA,1,1
+HA,EV,4HA,0,0
+RT,EV,HA,0,0
+//EOF
