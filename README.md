@@ -1,2 +1,2 @@
 # Power-System-Impacts-of-Electric-Vehicle-Charging-Strategies
-Suplementary Material (PCM) in PSO format
+Suplementary Material: Production cost model (PCM) in PSO format
