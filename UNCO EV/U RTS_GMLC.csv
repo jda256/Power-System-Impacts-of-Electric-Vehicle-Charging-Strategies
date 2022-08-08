@@ -1,0 +1,20 @@
+//OptionName,OptionValue
+DisplayCount,26
+VectorReports,1
+DateFormat,%c%y.%m.%d %H:%M
+ED_InjP,1
+ED_AraLoad,1
+ED_AraLoadCost,1
+ED_AraPenalty,1
+ED_AraViolation,1
+ED_InjMax,1
+ED_InjUp,1
+RS_AraRequired,1
+RS_AraPenalty,1
+RS_AraViolation,1
+RS_InjMax,1
+RS_InjMw,1
+NumberOfInputTabs,20
+NoLoadShed,1
+CapacityAvailableForReserves,1
+MinimumLossFactor,-0.4
